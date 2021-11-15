@@ -1,3 +1,3 @@
-# node-ps7c42
+# Design Patterns
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/node-ps7c42)
+Practica de ejemplos del libro Sumérgete en los PATRONES DE DISEÑO.
